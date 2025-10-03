@@ -1,0 +1,10 @@
+﻿.venv/
+__pycache__/
+.ipynb_checkpoints/
+data/raw/
+mlbb_mpl_s10.db
+*.pyc
+*.parquet
+.vscode/
+.DS_Store
+.env
